@@ -2,40 +2,35 @@
 
 Kios Pertanian Rudi Tani!
 
-Muhammad Rayhan – Leader
-Riswanda Imawan – Back end
+Muhammad Rayhan – Back end
+Riswanda Imawan – Leader
 Achmad Jundi Al Falah - Front end
 
 Tentang aplikasi
-Aplikasi pembuat daftar pesanan pelanggan dengan pembukuan keuangan dari total pendapatan keseluruhan untuk mengoptimalkan pekerjaan penjual.
+Aplikasi pembuat pencatatn stok barang  dan pendataan barang yang terjual untuk mengoptimalkan pekerjaan penjual.
 
-Pokok Masalah yang di hadpi mitra
+Pokok Masalah yang di hadapi mitra
 1.cek stok
 Belum adanya alat untuk mengecek stok barang secara rill time, yang mengakibatkan kekurangan stok
-2.Pencatatan Pemasukan
-Pemilik toko mengalami kesulitan dan membutuhkan waktu yang lama untuk mencatat modal usaha
-3.Pengurusan Keuangan
-Sering kali terdapat kesalahan dalam pencatatan keuangan yang mengakibatkan kerugian
-4.Pemesanan
-Pemilik toko kadang harus mengecek barang dan mencatatnya sebelum di kirim ke pembeli secra manual yang mengakibatkan kadang ada kesalahan dalam pencatatan pesanan
+2.Untuk melihat Detail Barang
+Pemilik dapat mengetahu detail dari sebuah produk yang dia jual secara lebih efisien dan terjangkau
+3.Pemberitahuan Stok
+Penjual dapat mengatasi permasalahan yang umum terjadi yaitu kehabisan stok barang.
+4.Pencatatan Barang Terjual
+Pemilik toko sering mengalami kekeliruan dalam pengecekan hasil penjualan barang yang sudah di lakukan
 
 Solusi permasalahan!
 
 1.Stok barang
-Dalam Aplikasi yang di buat, Pemilik toko bisa memasukan jumlah stok barang sehingga saat barang telah habis maka barang tidak bisa di pesan lagi sampai barang itu telah di stok Kembali.
+Dalam Aplikasi yang di buat, Pemilik toko bisa memasukan jumlah stok barang sehingga saat barang telah tinggal sedikit penjual akan lebih mudah mengetahui produk mana saja yang perlu di re-stok.
 
-2.Pencatatan pemasukan
-Dengan adanya Pencatatan pemasukan, pemilik toko tidak perlu lagi mencatat setiap barang yang terjual, karna aplikasi bisa mencatat barang apa saja yang telah terjual ke dalam database.
+2.Untuk melihat Detail Barang!
+Pada bagian Detail barang, akan menampilkan komponen dari produk secara lebih lengkap seperti adanya harga modal, produk terjual, kategori, serta deskripsi produk.
 
-3.Pengurusan Keuangan
-Dalam aplikasi, semua data keuangan dicatat secara otomatis, sehingga pemilik toko tidak perlu repot-repot mencatat total pendapatan, karna semuanya sudah tercatat dalam data base tanpa harus kawatir adanya kesalahan dalam pengurursan keuangan.
+3.Pemberitahuan Stok!
+Apa bilang Stok barang di bawah 10, maka barang akan di tampilkan ada bagian notifikasi navbar, sehingga penjual tau barang mana saja yang harus di Re-Stok 
 
-4.Pemesanan!
-Dalam aplikasi terdapat fitur pemesanan barang mulai dari jumlah dan barang apa saja yang di pesan, jadi pemilk toko hanya perlu menyiapkan barang tersebut tanpa harus mencatat dan menota barang karna semuanya sudah ada di dalam aplikasi.
-
-Penjelasan Fungsi dan Fitur Aplikasi 
-
-https://www.figma.com/file/8z7RPnW2WtDJSypezx07cs/AsistenUsaha-Mobile?node-id=0%3A1&t=bsAHY9aFcdlsvamN-0
-
+4.Pencatatan Barang Terjual!
+Pada bagian dasbord, admin dapat menambah ataupun mengurangi jumlah branag yang terjual sesuai dengan dia mau, sehingga dapat mengetahui barang yang telah terjual di hari atau minggu sesuai keingnan admin
 
 
